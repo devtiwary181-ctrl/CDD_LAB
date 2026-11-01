@@ -35,7 +35,7 @@ This plan lists all items to reproduce and enhance from the reference repository
   - Verify and commit with message `Exp 4: Git Branching, Switching, and Branch Merging`
   - Push to remote `origin main`
 
-- [ ] **Exp 5: conflict_class (Merge Conflict Simulation & Resolution)**
+- [x] **Exp 5: conflict_class (Merge Conflict Simulation & Resolution)**
   - Create directory `conflict_class/`
   - Create `merge_conflict.txt` demonstrating conflict markers and resolved state across branches
   - Add experiment documentation `README.md` in `conflict_class/` explaining three-way merge, conflict anatomy, and step-by-step resolution
