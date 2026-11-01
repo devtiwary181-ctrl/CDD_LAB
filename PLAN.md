@@ -2,7 +2,7 @@
 
 This plan lists all items to reproduce and enhance from the reference repository [Raavee-Singh/cdd_lab](https://github.com/Raavee-Singh/cdd_lab) into [devtiwary181-ctrl/CDD_LAB](https://github.com/devtiwary181-ctrl/CDD_LAB).
 
-- [ ] **Exp 1: devops lab1 (Git Basics & First Commit)**
+- [x] **Exp 1: devops lab1 (Git Basics & First Commit)**
   - Create directory `devops lab1/`
   - Author `hello.txt` with personalized intro for Dev Tiwary and DevOps Lab 1 context
   - Add comprehensive `README.md` in `devops lab1/` explaining objectives, commands (`git init`, `add`, `commit`, `status`, `diff`), and expected output
