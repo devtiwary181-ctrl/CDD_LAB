@@ -9,7 +9,7 @@ This plan lists all items to reproduce and enhance from the reference repository
   - Verify and commit with message `Exp 1: Git Basics, Local Repository Setup & First Commit`
   - Push to remote `origin main`
 
-- [ ] **Exp 2: devops lab2 (Remote Repositories & Cloning)**
+- [x] **Exp 2: devops lab2 (Remote Repositories & Cloning)**
   - Create directory `devops lab2/`
   - Write clean, well-commented `code.cpp` for Dev Tiwary pushing code to GitHub
   - Compile and test with `clang++ code.cpp -o code && ./code`
