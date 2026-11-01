@@ -49,7 +49,7 @@ This plan lists all items to reproduce and enhance from the reference repository
   - Verify and commit with message `Exp 6: Git Rebase, Commit Squashing & History Linearization`
   - Push to remote `origin main`
 
-- [ ] **Documentation & Final Wrap-up**
+- [x] **Documentation & Final Wrap-up**
   - Update root `README.md` with complete project title, description, architecture diagram/table, setup instructions, and guide for every experiment
   - Ensure pre-existing `login.txt` is retained intact
   - Final verification across all directories and files against reference inventory
