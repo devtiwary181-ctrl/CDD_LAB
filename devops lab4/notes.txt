@@ -1,0 +1,25 @@
+DevOps Lab 4 - Branching and Merging Reference Guide
+
+1. Create a remote repo and working directory, then push files to the remote repo.
+2. Check existing branches and active branch:
+   `git branch`
+3. Create a new branch:
+   `git branch <branch-name>`
+4. Switch to a branch using checkout or switch:
+   `git checkout <branch-name>`
+   or
+   `git switch <branch-name>`
+5. Create and switch to a new branch in a single command:
+   `git checkout -b <branch-name>`
+   or
+   `git switch -c <branch-name>`
+6. Push a branch to the remote repository:
+   `git push -u origin <branch-name>`
+7. Merge a branch into the main line:
+   - First switch to main: `git switch main` or `git checkout main`
+   - Merge the branch: `git merge <branch-name>`
+8. Delete a local branch when done:
+   - Safe delete (only if merged): `git branch -d <branch-name>`
+   - Force delete: `git branch -D <branch-name>`
+9. Delete a remote branch:
+   `git push origin --delete <branch-name>`

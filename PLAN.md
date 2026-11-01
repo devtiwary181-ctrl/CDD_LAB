@@ -27,7 +27,7 @@ This plan lists all items to reproduce and enhance from the reference repository
   - Verify and commit with message `Exp 3: Git Remote Synchronization - Pull vs Fetch and Merge`
   - Push to remote `origin main`
 
-- [ ] **Exp 4: devops lab4 (Branching, Switching & Merging)**
+- [x] **Exp 4: devops lab4 (Branching, Switching & Merging)**
   - Create directory `devops lab4/`
   - Write `branch_file.cpp` with descriptive logic and build verification
   - Create `notes.txt` providing a complete cheat-sheet of branching commands (`git branch`, `git checkout -b`, `git switch -c`, `git merge`, `git branch -D`)
