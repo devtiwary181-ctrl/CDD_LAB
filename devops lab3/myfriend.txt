@@ -7,3 +7,4 @@ Collaborative DevOps experiment on git pull vs fetch and merge.
 - Inspect changes with `git log HEAD..origin/main` or `git diff HEAD origin/main`
 - Merge the remote branch into local main: `git merge origin/main`
 - This two-step process allows safe review before merging rather than an immediate, unexpected merge conflict via direct `git pull`
+

@@ -23,3 +23,4 @@ DevOps Lab 4 - Branching and Merging Reference Guide
    - Force delete: `git branch -D <branch-name>`
 9. Delete a remote branch:
    `git push origin --delete <branch-name>`
+

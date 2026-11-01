@@ -2,3 +2,4 @@ a file for a merge conflict
 this is my second commit
 
 this is a new commit from new branch
+

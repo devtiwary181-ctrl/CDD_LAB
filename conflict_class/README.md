@@ -34,3 +34,4 @@ A merge conflict occurs when two branches make competing edits to the exact same
 
 ## Files in this Experiment
 - `merge_conflict.txt`: Text file illustrating resolved state after reconciling competing commits across branches.
+

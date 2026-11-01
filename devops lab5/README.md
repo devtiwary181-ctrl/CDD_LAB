@@ -36,3 +36,4 @@ git rebase -i HEAD~5
 - `file1.txt`: Initial rebase marker file ("starting rebase").
 - `file2.txt`: Secondary commit file ("new file").
 - `abc.txt`, `bcd.txt`, `edf.txt`, `file3.txt`: Empty tracking files representing sequential feature commits in the rebase pipeline.
+
