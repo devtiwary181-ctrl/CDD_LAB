@@ -42,7 +42,7 @@ This plan lists all items to reproduce and enhance from the reference repository
   - Verify and commit with message `Exp 5: Merge Conflict Generation and Step-by-Step Resolution`
   - Push to remote `origin main`
 
-- [ ] **Exp 6: devops lab5 (Git Rebase & Multi-Commit Sequences)**
+- [x] **Exp 6: devops lab5 (Git Rebase & Multi-Commit Sequences)**
   - Create directory `devops lab5/`
   - Create sequential files: `file1.txt`, `file2.txt`, `file3.txt`, `abc.txt`, `bcd.txt`, `edf.txt`
   - Add experiment documentation `README.md` in `devops lab5/` detailing rebasing mechanics (`git rebase`), commit history linearization, and rebasing vs merging
