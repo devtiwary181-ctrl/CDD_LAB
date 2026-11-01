@@ -18,7 +18,7 @@ This plan lists all items to reproduce and enhance from the reference repository
   - Verify and commit with message `Exp 2: Remote Repositories, C++ Compilation & Cloning`
   - Push to remote `origin main`
 
-- [ ] **Exp 3: devops lab3 (Git Pull vs Fetch & Merge)**
+- [x] **Exp 3: devops lab3 (Git Pull vs Fetch & Merge)**
   - Create directory `devops lab3/`
   - Create `pull_fetch.txt` explaining synchronization fundamentals
   - Create `myfriend.txt` explaining difference between `git pull` vs `git fetch` + `git merge origin/main` to mitigate merge conflicts

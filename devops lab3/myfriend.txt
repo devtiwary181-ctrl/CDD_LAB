@@ -1,0 +1,9 @@
+Collaborative DevOps experiment on git pull vs fetch and merge.
+
+# Workflow to safely pull changes and mitigate conflicts:
+- Add or modify a file in the remote repository and commit changes
+- Open terminal / Git Bash
+- Run `git fetch origin` to download remote updates into origin/main without modifying local working directory
+- Inspect changes with `git log HEAD..origin/main` or `git diff HEAD origin/main`
+- Merge the remote branch into local main: `git merge origin/main`
+- This two-step process allows safe review before merging rather than an immediate, unexpected merge conflict via direct `git pull`
